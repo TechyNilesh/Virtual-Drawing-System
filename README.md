@@ -18,4 +18,4 @@ Open commond line and type:
 
 `streamlit run virtual-paint.py`
 
-##Design and Developed By @TechyNilesh
+## Design and Developed By @TechyNilesh
